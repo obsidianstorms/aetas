@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="1052.36"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="aetas_design_1.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3169">
+      <stop
+         id="stop3171"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop3173"
+         offset="1"
+         style="stop-color:#024a68;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3169"
+       id="linearGradient3167"
+       x1="482.85715"
+       y1="0.62473357"
+       x2="482.85715"
+       y2="780.64563"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="439.25525"
+     inkscape:cy="845.80796"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="968"
+     inkscape:window-height="726"
+     inkscape:window-x="2"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.93999999;fill:url(#linearGradient3167);fill-opacity:1"
+       id="rect2383"
+       width="900"
+       height="800"
+       x="0"
+       y="0.64566469" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="banner"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:106.39004517px;font-style:normal;font-weight:normal;fill:#3ba3d0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="28.008301"
+       y="92.442978"
+       id="text3175"><tspan
+         sodipodi:role="line"
+         x="28.008301"
+         y="92.442978"
+         id="tspan3183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PhoenixScriptFLF;-inkscape-font-specification:PhoenixScriptFLF">Aetas</tspan></text>
+    <rect
+       style="opacity:0.93999999;fill:#3ba3d0;fill-opacity:1"
+       id="rect3187"
+       width="126"
+       height="74"
+       x="34"
+       y="-129.64001" />
+    <rect
+       style="opacity:0.93999999;fill:#225e79;fill-opacity:1"
+       id="rect3189"
+       width="124"
+       height="82"
+       x="208"
+       y="-131.64001" />
+    <rect
+       style="opacity:0.93999999;fill:#63afd0;fill-opacity:1"
+       id="rect3191"
+       width="134"
+       height="90"
+       x="374"
+       y="-137.64001" />
+    <rect
+       style="opacity:0.93999999;fill:#0772a1;fill-opacity:1"
+       id="rect3193"
+       width="138"
+       height="96"
+       x="570"
+       y="-143.64001" />
+    <rect
+       style="opacity:0.93999999;fill:#024a68;fill-opacity:1"
+       id="rect3195"
+       width="156"
+       height="122"
+       x="754"
+       y="-151.64001" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#3ba3d0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Oblique"
+       x="82.585472"
+       y="140.09215"
+       id="text2402"
+       transform="matrix(0.9999746,7.1235003e-3,-7.1235003e-3,0.9999746,0,0)"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2404"
+         x="82.585472"
+         y="140.09215">Time</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#3ba3d0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Oblique"
+       x="195.77528"
+       y="137.86093"
+       id="text2406"
+       transform="matrix(0.9999746,7.1235003e-3,-7.1235003e-3,0.9999746,0,0)"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="195.77528"
+         y="137.86093"
+         id="tspan2410">Tracker</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="layer 1">
+    <rect
+       style="opacity:0.93999999;fill:#ffffff;fill-opacity:1"
+       id="rect3205"
+       width="794"
+       height="584"
+       x="56"
+       y="168.35999" />
+    <rect
+       style="opacity:1;fill:#225d79;fill-opacity:0.94117647000000004"
+       id="rect3207"
+       width="795"
+       height="26"
+       x="56"
+       y="168.35999" />
+    <rect
+       y="168.35999"
+       x="56"
+       height="26"
+       width="88.099976"
+       id="rect3209"
+       style="opacity:1;fill:#3ba3d1;fill-opacity:0.94117647" />
+  </g>
+</svg>
